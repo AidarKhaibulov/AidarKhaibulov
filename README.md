@@ -29,4 +29,3 @@ Name's Aidar and i am a Backend Java developer. Feel free to connect with me her
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidarKhaibulov&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AidarKhaibulov.AidarKhaibulov)
