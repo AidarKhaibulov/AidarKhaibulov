@@ -24,4 +24,7 @@ Name's Aidar and i am a Backend Java developer. Feel free to connect with me her
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AidarKhaibulov&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidarKhaibulov&hide=TeX&layout=compact)
 
